@@ -21,7 +21,7 @@ while (input !=='quit' && input !=='q') {
        const deleted= todos.splice(index, 1);
         console.log(`Ok, deleted ${deleted[0]}`);
 
-    }  else {cd OneDrive/webdev
+    }  else {
 
         console.log('Unkmown Index')
     }
